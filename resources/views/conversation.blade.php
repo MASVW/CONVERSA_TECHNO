@@ -42,7 +42,7 @@
                             </div>
                             @else
                             <div class="bg-gray-100 p-2 rounded-md mr-16">
-                                <p class="font-medium text-blue-500 text-sm">Answer</p>
+                                <p class="font-medium text-blue-500 text-sm">CONVERSA</p>
                                 <hr class="my-2" />
                                 <p class="text-gray-800">{{$message->content}}</p>
                             </div>

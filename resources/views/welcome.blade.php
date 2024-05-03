@@ -20,12 +20,10 @@
         <div class="relative items-center w-full px-5 mx-auto max-w-7xl md:px-12">
             <div>
                 <div class="text-center">
+                    <img class="mx-auto animate-bounce size-28 src="logo.png" alt="">
                     <p class="w-auto"><a href="/" class="font-semibold text-[#4354ff] text-sm uppercase">Conversa</a></p>
-                    <p class="mt-8 text-3xl font-extrabold tracking-tight text-black md:text-5xl">
-                        The Key to a Cozy Industry 5.0
-                    </p>
                     <p class="max-w-xl mx-auto mt-4 text-base lg:text-xl text-slate-500">
-                        AI-Powered Customer Services Evolution
+                        Evaluating Conversion Through Conversation
                     </p>
                 </div>
             </div>

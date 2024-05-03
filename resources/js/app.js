@@ -5,7 +5,7 @@ const components = {
     <span style="background-color: #fff;"></span>
     </span>`,
     thinking:
-        '<span class="animate-pulse text-gray-600 text-sm">Tinking...</span>',
+        '<span class="animate-pulse text-gray-600 text-sm">Please Wait...</span>',
     chat_user: `
     <div class="ml-16 flex justify-end">
         <di class="bg-gray-100 p-3 rounded-md">
