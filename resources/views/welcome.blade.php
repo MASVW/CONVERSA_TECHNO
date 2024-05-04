@@ -20,7 +20,7 @@
         <div class="relative items-center w-full px-5 mx-auto max-w-7xl md:px-12">
             <div>
                 <div class="text-center">
-                    <img class="mx-auto animate-bounce size-28 src="logo.png" alt="">
+                    <img class="mx-auto animate-bounce size-28" src="logo.png" alt="">
                     <p class="w-auto"><a href="/" class="font-semibold text-[#4354ff] text-sm uppercase">Conversa</a></p>
                     <p class="max-w-xl mx-auto mt-4 text-base lg:text-xl text-slate-500">
                         Evaluating Conversion Through Conversation
